@@ -1,0 +1,7 @@
+{
+    "input_file":"wordlist.txt",
+    "output_folder":"out",
+    "words_per_file":100,
+    "apiid":"<API ID HERE>",
+    "apikey": "<API KEY HERE>"
+}
